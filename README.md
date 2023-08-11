@@ -1,6 +1,6 @@
 # Visual Object Classes Challenge 2012 (VOC2012)
 
-This repository includes my solution for Pascal VOC 2012 challenge which is published
+This repository includes my solution for [Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html) challenge which is published
 in `Hybrid Deep Learning Approach for Multi-label Image Classification` paper.
 
 ## Results
